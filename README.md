@@ -11,9 +11,6 @@ A click on the answer "Barack Obama" return to the first view.
 
 <img src="Emi_flascard_Demo.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. 
-(☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [x] Create New Project in Android Studio
 - [x] Add a view for the front side of the flashcard to display the question
