@@ -9,7 +9,7 @@ A click on the answer "Barack Obama" return to the first view.
 
 ### App Walk-though
 
-<img src="Emi_flascard_Demo.gif" width=200><br>
+<img src="Emi_flashcard_Demo.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
